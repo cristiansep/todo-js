@@ -1,6 +1,6 @@
-# Webpack Starter
+# TODO Lista de tareas con javascript utilizando Webpack 
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto para practicar javascript y webpack.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
